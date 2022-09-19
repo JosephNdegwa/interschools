@@ -4,6 +4,14 @@
 }
 .Navbar {
     padding-top: 0px;
+    width: 100%;
+}
+.school {
+    padding-left: 10%;
+}
+
+.suggest {
+    padding-right: 15%;
 }
 
 .button-1 {
@@ -19,4 +27,9 @@
 .compare {
     align-items: center;
     margin-left: 30%;
+}
+
+.filter{
+    padding-left: 1%;
+    padding-right: 88%;
 }
