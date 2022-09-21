@@ -5,13 +5,15 @@
 .Navbar {
     padding-top: 0px;
     width: 100%;
+    height: 100px;
+    background-color: white;
 }
 .school {
     padding-left: 10%;
 }
 
 .suggest {
-    padding-right: 10%;
+    padding-right: 11%;
 }
 
 .button-1 {
@@ -20,12 +22,19 @@
 
 .heading {
     margin-top: 40px;
-    margin-left: 20%;
+    margin-left: 25%;
     align-items: center;
 }
 
 .compare {
     align-items: center;
-    margin-left: 30%;
+    margin-left: 40%;
 }
 
+.card {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 1rem;
+    margin-top: 1rem;
+    color: blue;
+}
